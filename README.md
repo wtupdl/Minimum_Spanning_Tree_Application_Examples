@@ -2,7 +2,7 @@
 
 ## 项目内容
 
-本项目是一个最小生成树的可视化程序，主要实现了克鲁斯卡尔算法和普里姆算法的可可视化
+本项目是一个最小生成树的可视化程序，主要实现了克鲁斯卡尔算法和普里姆算法的可视化
 
 ![运行截图](https://github.com/wtupdl/Minimum_Spanning_Tree_Application_Examples/blob/master/img/%E6%9C%80%E5%B0%8F%E7%94%9F%E6%88%90%E6%A0%91.png)
 ## 使用环境
