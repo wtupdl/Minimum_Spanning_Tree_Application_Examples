@@ -1,0 +1,135 @@
+{
+	"kind" : "toolchains",
+	"toolchains" : 
+	[
+		{
+			"compiler" : 
+			{
+				"id" : "GNU",
+				"implicit" : 
+				{
+					"includeDirectories" : 
+					[
+						"F:/My_Clion/mycenv/MinGW/lib/gcc/x86_64-w64-mingw32/8.1.0/include",
+						"F:/My_Clion/mycenv/MinGW/lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed",
+						"F:/My_Clion/mycenv/MinGW/x86_64-w64-mingw32/include"
+					],
+					"linkDirectories" : 
+					[
+						"F:/My_Clion/mycenv/MinGW/lib/gcc/x86_64-w64-mingw32/8.1.0",
+						"F:/My_Clion/mycenv/MinGW/lib/gcc",
+						"F:/My_Clion/mycenv/MinGW/x86_64-w64-mingw32/lib",
+						"F:/My_Clion/mycenv/MinGW/lib"
+					],
+					"linkFrameworkDirectories" : [],
+					"linkLibraries" : 
+					[
+						"mingw32",
+						"gcc",
+						"moldname",
+						"mingwex",
+						"pthread",
+						"advapi32",
+						"shell32",
+						"user32",
+						"kernel32",
+						"iconv",
+						"mingw32",
+						"gcc",
+						"moldname",
+						"mingwex"
+					]
+				},
+				"path" : "F:/My_Clion/mycenv/MinGW/bin/gcc.exe",
+				"version" : "8.1.0"
+			},
+			"language" : "C",
+			"sourceFileExtensions" : 
+			[
+				"c",
+				"m"
+			]
+		},
+		{
+			"compiler" : 
+			{
+				"id" : "GNU",
+				"implicit" : 
+				{
+					"includeDirectories" : 
+					[
+						"F:/My_Clion/mycenv/MinGW/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++",
+						"F:/My_Clion/mycenv/MinGW/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32",
+						"F:/My_Clion/mycenv/MinGW/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward",
+						"F:/My_Clion/mycenv/MinGW/lib/gcc/x86_64-w64-mingw32/8.1.0/include",
+						"F:/My_Clion/mycenv/MinGW/lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed",
+						"F:/My_Clion/mycenv/MinGW/x86_64-w64-mingw32/include"
+					],
+					"linkDirectories" : 
+					[
+						"F:/My_Clion/mycenv/MinGW/lib/gcc/x86_64-w64-mingw32/8.1.0",
+						"F:/My_Clion/mycenv/MinGW/lib/gcc",
+						"F:/My_Clion/mycenv/MinGW/x86_64-w64-mingw32/lib",
+						"F:/My_Clion/mycenv/MinGW/lib"
+					],
+					"linkFrameworkDirectories" : [],
+					"linkLibraries" : 
+					[
+						"stdc++",
+						"mingw32",
+						"gcc_s",
+						"gcc",
+						"moldname",
+						"mingwex",
+						"pthread",
+						"advapi32",
+						"shell32",
+						"user32",
+						"kernel32",
+						"iconv",
+						"mingw32",
+						"gcc_s",
+						"gcc",
+						"moldname",
+						"mingwex"
+					]
+				},
+				"path" : "F:/My_Clion/mycenv/MinGW/bin/c++.exe",
+				"version" : "8.1.0"
+			},
+			"language" : "CXX",
+			"sourceFileExtensions" : 
+			[
+				"C",
+				"M",
+				"c++",
+				"cc",
+				"cpp",
+				"cxx",
+				"mm",
+				"mpp",
+				"CPP",
+				"ixx",
+				"cppm"
+			]
+		},
+		{
+			"compiler" : 
+			{
+				"implicit" : {},
+				"path" : "F:/My_Clion/mycenv/MinGW/bin/windres.exe"
+			},
+			"language" : "RC",
+			"sourceFileExtensions" : 
+			[
+				"rc",
+				"RC"
+			]
+		}
+	],
+	"version" : 
+	{
+		"major" : 1,
+		"minor" : 0
+	}
+}
