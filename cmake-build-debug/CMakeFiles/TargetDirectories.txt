@@ -1,3 +1,0 @@
-E:/MyClionProject/Minimum_Spanning_Tree_Application_Examples/cmake-build-debug/CMakeFiles/Minimum_Spanning_Tree_Application_Examples.dir
-E:/MyClionProject/Minimum_Spanning_Tree_Application_Examples/cmake-build-debug/CMakeFiles/edit_cache.dir
-E:/MyClionProject/Minimum_Spanning_Tree_Application_Examples/cmake-build-debug/CMakeFiles/rebuild_cache.dir
